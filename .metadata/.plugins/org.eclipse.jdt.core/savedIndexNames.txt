@@ -1,0 +1,5 @@
+INDEX VERSION 1.132+C:\Git\toy-eclipse\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+3746045786.index
+28997827.index
+727232149.index
